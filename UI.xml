@@ -23,20 +23,20 @@
 	</MainMenu>
 	<Customization>
 		<Item Name="Company Name Here">请在此输入公司名</Item>
-		<Item Name="Founder">元老</Item>
+		<Item Name="Founder">创始人</Item>
 		<Item Name="FounderName">Anony Mouse</Item>
 		<Item Name="Colors">颜色</Item>
 		<Item Name="Gender">性别</Item>
 		<Item Name="Male">男</Item>
 		<Item Name="Female">女</Item>
-		<Item Name="Style">Style</Item>
+		<Item Name="Style">造型</Item>
 		<Item Name="Hair">发型</Item>
 		<Item Name="Skin">肤色</Item>
 		<Item Name="Face">面部</Item>
 		<Item Name="Upper body">上半身</Item>
 		<Item Name="Lower body">下半身</Item>
 		<Item Name="Personality">个性</Item>
-		<Item Name="Mods">Mods</Item>
+		<Item Name="Mods">模组</Item>
 		<Item Name="Scenario">场景</Item>
 		<Item Name="Freeplay">自由模式</Item>
 		<Item Name="Starting money">起始金钱</Item>
@@ -123,10 +123,10 @@
 		<Item Name="Diligence">用功</Item>
 		<Item Name="Years">年</Item>
 		<Item Name="Lead skill">领导能力</Item>
-		<Item Name="Code skill">打码能力</Item>
+		<Item Name="Code skill">编程能力</Item>
 		<Item Name="Design skill">设计能力</Item>
 		<Item Name="Art skill">艺术能力</Item>
-		<Item Name="Marketing skill">市场能力</Item>
+		<Item Name="Marketing skill">营销能力</Item>
 		<Item Name="Tier">级别</Item>
 		<Item Name="Scope">规模</Item>
 		<Item Name="Company">公司</Item>
@@ -240,8 +240,8 @@
 		<Item Name="SelectIPButton">选择原作</Item>
 		<Item Name="IPButtonTip">将这个项目作为之前项目的续作</Item>
 		<Item Name="NameGenTip">点击这里生成一个随机名字</Item>
-		<Item Name="OpenSourceTip">Release your product for free to gain popularity and put a strain on your competitors</Item>
-		<Item Name="InHouseTip">Keep this product to yourself, so your competitors can't take advantage of it</Item>
+		<Item Name="OpenSourceTip">开源您的产品获得人气，并且能施加压力给您的竞争对手</Item>
+		<Item Name="InHouseTip">这个软件只会在您公司内部使用，不会发行到市场上，您的竞争对手也无法使用该软件</Item>
 		<Item Name="StandardProductName">产品名</Item>
 		<Item Name="DevTime1">一年内</Item>
 		<Item Name="DevTime2">多于一年</Item>
@@ -275,9 +275,9 @@
 	<AutoWindow>
 		<Item Name="Project management">项目管理</Item>
 		<Item Name="ProjectManagementHint">To enable this, the team leader must have taken a course in project management through the education program</Item>
-		<Item Name="HR management">HR管理</Item>
+		<Item Name="HR management">人事管理</Item>
 		<Item Name="HRManagementHint">To enable this, the team leader must have taken a course in HR management through the education program</Item>
-		<Item Name="HR management">HR管理</Item>
+		<Item Name="HR management">人事管理</Item>
 		<Item Name="Dev budget">开发预算</Item>
 		<Item Name="Marketing budget">营销预算</Item>
 		<Item Name="Pre-marketing">Pre-marketing</Item>
